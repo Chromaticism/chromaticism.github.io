@@ -66,4 +66,31 @@ The NASDAQ and S&P 500 **stockmarket indices** touched record highs after weak p
 **Tesla** said one of its cars had been involed in a crash in Beijing while in "Autopilot" mode, the first known incident of its kind in China. THe car's owner, who was uninjured, said sales staff had overstated the extent to which the car could drive itself. Tesla said the data showd the driver had not kept his hand on the wheel, as recommended when using Autopilot. 
 
 
+## 2016-08-12
+
+The United Nations is investigating claims that chlorine gas was used in an attack by Syrian government forces on rebel-held parts of Aleppo. Video footage shows people being treated for breathing difficulties. The UN’s special envoy for Syria said the use of gas would be a war crime. Attempts to arrange a ceasefire to allow humanitarian aid in have failed.
+
+---------------------------
+
+Moscow and Kiev both said they were stepping up military security on the border between Ukraine and Crimea, the territory Russia annexed from Ukraine in 2014. On Wednesday, Russia accused Ukraine of armed incursions into the region; Ukraine dismissed the allegations. Vladimir Putin summoned his security council; the UN Security Council held a closed-door meeting to discuss the tensions.
+
+----------------------
+
+Ecuador said it would allow Swedish prosecutors to question Julian Assange, the founder of WikiLeaks, a whistleblowing website, in its embassy in London, where he has been living since 2012 to avoid possible extradition. Prosecutors had previously insisted that he should be interviewed in Sweden in connection with an alleged rape in 2010. Mr Assange denies the allegations.
+
+-------------------------
+
+Egypt struck a preliminary deal to borrow $12 billion from the International Monetary Fund. The government has promised to reform foreign-exchange markets, tackle inflation and “protect the poor and vulnerable groups”; it hopes the deal will spur more foreign investment. The agreement is subject to approval by the IMF’s executive board.
+
+------------------------
+
+European officials launched an investigation into the proposed merger of Dow Chemical and DuPont, two giant American agriculture firms. Antitrust regulators worry that the $130 billion deal, creating the largest firm of its kind, might reduce farmers’ access to seeds and crop-protection chemicals. The companies have already submitted evidence that it would not; the European Commission now wishes to dig further.
+
+------------------------
+
+Alibaba said its first-quarter revenue rose by 59% year-on-year to 32.2 billion yuan ($4.8 billion), the biggest increase since it went public two years ago. The Chinese e-commerce giant said mobile devices accounted for 75% of sales by value, and that monthly mobile users had increased by 39% compared with the same period last year.
+
+--------------------------
+
+**America**’ s three big stock indices closed at record highs together for the first time since December 31st 1999. Higher oil prices and better-than-expected results from retailers fuelled rallies in the Dow Jones Industrial Average—which rose by 0.7% to hit a new all-time high—the S&P 500 and the NASDAQ Composite.
 
